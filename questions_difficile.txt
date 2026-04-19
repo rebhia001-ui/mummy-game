@@ -1,0 +1,59 @@
+Q: Comment meurt Imhotep au debut ?
+A: Brule vivant
+B: Noye
+C: Empoisonne
+R: A
+
+Q: Que veut faire Imhotep avec Evelyn ?
+A: La sacrifier
+B: La proteger
+C: L aider
+R: A
+
+Q: Quelle langue est utilisee dans le livre ?
+A: Latin
+B: Hieroglyphes
+C: Arabe
+R: B
+
+Q: Que fait Benny a la fin ?
+A: Il meurt
+B: Il devient riche
+C: Il sauve Rick
+R: A
+
+Q: Quelle est la mission principale ?
+A: Trouver un tresor
+B: Ressusciter une momie
+C: Sauver le monde
+R: C
+
+Q: Qui est le chef de l expedition ?
+A: Un soldat
+B: Un pretre
+C: Un roi
+R: A
+
+Q: Quelle est la source de la malediction ?
+A: Une erreur
+B: Un sort
+C: Une bataille
+R: B
+
+Q: Quelle arme est utilisee contre Imhotep ?
+A: Pistolet
+B: Livre magique
+C: Epee
+R: B
+
+Q: Que se passe t il a la fin pour Imhotep ?
+A: Il meurt definitivement
+B: Il devient roi
+C: Il s enfuit
+R: A
+
+Q: Le film est connu pour quoi ?
+A: Son humour et aventure
+B: Sa tristesse
+C: Sa musique
+R: A

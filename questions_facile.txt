@@ -1,0 +1,59 @@
+Q: Qui est le heros principal ?
+A: Rick O Connell
+B: Imhotep
+C: Jonathan
+R: A
+
+Q: Quel est le nom de la momie ?
+A: Anubis
+B: Imhotep
+C: Osiris
+R: B
+
+Q: Dans quel pays se deroule l histoire ?
+A: Maroc
+B: Egypte
+C: Grece
+R: B
+
+Q: Qui accompagne Rick ?
+A: Evelyn
+B: Anck su namun
+C: Meela
+R: A
+
+Q: Le film appartient a quel genre ?
+A: Science fiction
+B: Aventure
+C: Drame
+R: B
+
+Q: Qui est Jonathan ?
+A: Frere dEvelyn
+B: Ami de Rick
+C: Ennemi
+R: A
+
+Q: Qui est Evelyn ?
+A: Une exploratrice
+B: Une reine
+C: Une voleuse
+R: A
+
+Q: Quelle relation entre Rick et Evelyn ?
+A: Amour
+B: Freres
+C: Ennemis
+R: A
+
+Q: Quelle creature attaque les personnages ?
+A: Scarabees
+B: Loups
+C: Serpents geants
+R: A
+
+Q: Qui sauve Evelyn a la fin ?
+A: Rick
+B: Jonathan
+C: Benny
+R: A

@@ -1,0 +1,59 @@
+Q: Quel est le metier de Rick ?
+A: Medecin
+B: Aventurier / soldat
+C: Professeur
+R: B
+
+Q: Que cherche Imhotep ?
+A: Ressusciter Anck su namun
+B: De l or
+C: Une cle
+R: A
+
+Q: Quel livre ressuscite la momie ?
+A: Livre des vivants
+B: Livre des morts
+C: Livre du temps
+R: B
+
+Q: Quel animal est sacre dans le film ?
+A: Chat
+B: Chien
+C: Lion
+R: A
+
+Q: Quelle ville ancienne est exploree ?
+A: Alexandrie
+B: Hamunaptra
+C: Le Caire
+R: B
+
+Q: Qui a libere Imhotep ?
+A: Rick
+B: Evelyn
+C: Un voleur
+R: B
+
+Q: Qui est Anck su namun ?
+A: Amoureuse d Imhotep
+B: Une deesse
+C: Une exploratrice
+R: A
+
+Q: Qui aide Rick contre Imhotep ?
+A: Les explorateurs
+B: Les pirates
+C: Les policiers
+R: A
+
+Q: Quel est le role de Benny ?
+A: Traitre
+B: Heros
+C: Soldat
+R: A
+
+Q: Ou se trouve le tresor ?
+A: Dans un temple
+B: Dans la mer
+C: Dans une montagne
+R: A
