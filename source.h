@@ -1,4 +1,7 @@
-#ifndef SOURCE_H
+/**
+ * @file source.h
+ * @brief Header des fonctions
+ */#ifndef SOURCE_H
 #define SOURCE_H
 
 typedef struct {

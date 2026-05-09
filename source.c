@@ -1,4 +1,7 @@
-#include <stdio.h>
+/**
+ * @file source.c
+ * @brief Gestion des énigmes
+ */#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include "source.h"

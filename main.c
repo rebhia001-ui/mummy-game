@@ -1,4 +1,10 @@
-#include <SDL2/SDL.h>
+/**
+ * @file main.c
+ * @brief Programme principal du jeu
+ * @author Ahmed
+ * @version 1.0
+ * @date 2026
+ */#include <SDL2/SDL.h>
 #include <SDL2/SDL_ttf.h>
 #include <SDL2/SDL_image.h>
 #include <stdio.h>

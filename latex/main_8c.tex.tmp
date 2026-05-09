@@ -1,0 +1,39 @@
+\hypertarget{main_8c}{}\doxysection{main.\+c File Reference}
+\label{main_8c}\index{main.c@{main.c}}
+
+
+Programme principal du jeu.  
+
+
+{\ttfamily \#include $<$SDL2/\+SDL.\+h$>$}\newline
+{\ttfamily \#include $<$SDL2/\+SDL\+\_\+ttf.\+h$>$}\newline
+{\ttfamily \#include $<$SDL2/\+SDL\+\_\+image.\+h$>$}\newline
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+{\ttfamily \#include $<$time.\+h$>$}\newline
+{\ttfamily \#include $<$string.\+h$>$}\newline
+{\ttfamily \#include \char`\"{}source.\+h\char`\"{}}\newline
+Include dependency graph for main.\+c\+:
+% FIG 0
+\doxysubsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{main_8c_ae642a4ed7cb860246c0aa90155e7ef48}\label{main_8c_ae642a4ed7cb860246c0aa90155e7ef48}} 
+void {\bfseries afficher\+Texte} (SDL\+\_\+\+Renderer $\ast$renderer, TTF\+\_\+\+Font $\ast$font, char $\ast$text, int x, int y)
+\item 
+\mbox{\Hypertarget{main_8c_ae66f6b31b5ad750f1fe042a706a4e3d4}\label{main_8c_ae66f6b31b5ad750f1fe042a706a4e3d4}} 
+int {\bfseries main} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+Programme principal du jeu. 
+
+\begin{DoxyAuthor}{Author}
+Ahmed 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+2026 
+\end{DoxyDate}
